@@ -13,6 +13,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <html>
     <head></head>
@@ -110,7 +111,10 @@ Execute the program
 </table>
 </body>
 </html>
-
+```
 
 # OUPUT
 ![timetable](https://github.com/chandru174642/ODD2023-WT-Ex-03-Timetable/assets/139841798/0a47b966-dbee-455d-9215-de5925c83a30)
+
+RESULT:
+The table is created Sucessfully
